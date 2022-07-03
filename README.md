@@ -19,6 +19,4 @@ We conducted 5-fold cross validation, 10-fold cross validation and independent t
 Each epoch costs about 25 seconds in the training process, while prediction of each sample takes no more than 2 seconds by using the trained Enhancer-LSTMAtt.
 
 ## Code interpretation
-Web.ipynb: Server development core code.
-
-ResNet+LSTM+Attention(layer1+layer2) .ipynb: Independent test code of phase I and phase II.
+Independent testing.ipynb.ipynb: Independent test code of phase I and phase II.
